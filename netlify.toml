@@ -1,0 +1,13 @@
+[build]
+  publish = "."
+
+# data.json selalu diambil terbaru agar perubahan langsung tampil
+[[headers]]
+  for = "/data.json"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"

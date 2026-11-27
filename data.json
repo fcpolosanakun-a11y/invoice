@@ -1,0 +1,24 @@
+{
+  "shop": "chubbysstrey",
+  "tag": "nota pesanan kamu",
+  "wa": "08816781623",
+  "x": "",
+  "tg": "",
+  "pay": "QRIS",
+  "est": "±15 menit setelah bukti masuk",
+  "note": "Terimakasih sudah order<3",
+  "f1": "Fredoka",
+  "f2": "Playfair Display",
+  "f3": "Quicksand",
+  "lay": 0,
+  "th": 0,
+  "ch": 0,
+  "pos": "top",
+  "size": 130,
+  "op": 1,
+  "chibi": [
+    "assets/chibi1.jpg",
+    "assets/chibi2.jpg",
+    "assets/chibi3.jpg"
+  ]
+}
